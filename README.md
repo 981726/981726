@@ -1,4 +1,4 @@
-(https://komarev.com/ghpvc/?username=981726&label=PROFILE+VIEWS)
+![Profile Views](https://hits.sh/octocat/octocat.svg?style=flat-square&label=Profile%20views&color=blue)
 # 💫About Me :
 Hey! I’m a Discord developer who loves building cool stuff with Lua, Python, C++, and Batch. I’m also a bit of a system tweaker—always looking for ways to boost your PC’s performance and make things run smoother ⚙️
 
