@@ -5,12 +5,12 @@
   <img src="https://img.shields.io/github/followers/981726?style=flat-square&color=7047c9&label=FOLLOWERS" alt="GitHub followers" />
 </p>
 
-<h3 align="center">just a guy who likes figuring things out.</h3>
+<h3 align="center">just a nerdy ghetto guy.</h3>
 
 <p align="center">
   Mostly Lua & Python. Sometimes C++, JavaScript, Batch and whatever else a project needs.
   <br />
-  Discord development, Windows tweaking, networking experiments and random game projects.
+  Discord development, Windows tweaking, networking experimenting and random game projects.
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ I'm into the technical side of things — figuring out what makes software tick,
 - Making optimization scripts and messing around with system configurations.
 - Playing Jailbreak and occasionally getting distracted by a random coding idea.
 
-I don't stick to one thing for too long. If something interests me, I'll probably end up testing it, scripting it or trying to improve it.
+I don't stick to one thing for too long. If something interests me, I'll probably end up doing it. or i'd just fuck around
 
 ### `02 / languages & tools`
 
@@ -42,10 +42,10 @@ I don't stick to one thing for too long. If something interests me, I'll probabl
 </p>
 
 <p align="center">
-  <sub>Primary: Lua & Python · Also use: C++, JavaScript, C# & Batch</sub>
+  <sub>Primary: Lua & Python, Batch · Also use: C++, JavaScript, C#.</sub>
 </p>
 
-### `03 / what i mess with`
+### `03 / what i fw with`
 
 <table>
   <tr>
@@ -64,11 +64,11 @@ I don't stick to one thing for too long. If something interests me, I'll probabl
     <td width="50%" valign="top">
       <p><strong>⌘ Discord development</strong></p>
       <sub>BOTS / AUTOMATION</sub>
-      <p>Bot commands, server utilities, integrations and scripts that handle repetitive tasks.</p>
+      <p>Bot commands, server utilities, integrations and automation/p>
     </td>
     <td width="50%" valign="top">
       <p><strong>⌨️ Random projects</strong></p>
-      <sub>CODE / TEST / REPEAT</sub>
+      <sub>CODE / TEST / REPEAT ( cry in the corner ) </sub>
       <p>Small tools, game-related experiments and ideas that turn into projects at 2 AM.</p>
     </td>
   </tr>
@@ -102,7 +102,7 @@ I don't stick to one thing for too long. If something interests me, I'll probabl
 </p>
 
 <p align="center">
-  <sub>less talking, more testing.</sub>
+  <sub>less talking, more testing, less debugging more crying </sub>
 </p>
 
 <p align="center">
